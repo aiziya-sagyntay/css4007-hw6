@@ -11,7 +11,11 @@ Which tools did you use, and for what?
 
 ## Part A — Paper calculations
 
-Link your scan/photo here. Include V1 for every nonterminal tile, the three requested V2 calculations, best-action arrows/ties and your explanation. Commit this part before coding.
+My handwritten calculations are available below.
+
+- [Page 1](photo_2026-11-24_01-03-29.jpg)
+- [Page 2](photo_2026-11-24_01-03-47.jpg)
+- [Page 3](photo_2026-11-24_01-04-04.jpg)
 
 ## Part B — FrozenLake
 
