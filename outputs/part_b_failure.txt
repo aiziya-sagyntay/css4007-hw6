@@ -1,0 +1,51 @@
+slippery=False, policy=random, batch seed=11, episode seed=11000
+Outcome: hole, steps: 6, total reward: 0
+
+Start, state 0
+
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 1, LEFT → state 0
+  (Left)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 2, UP → state 0
+  (Up)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 3, RIGHT → state 1
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 4, LEFT → state 0
+  (Left)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 5, RIGHT → state 1
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 6, DOWN → state 5
+  (Down)
+SFFF
+FHFH
+FFFH
+HFFG

@@ -1,0 +1,51 @@
+slippery=False, policy=fixed, batch seed=11, episode seed=11000
+Outcome: goal, steps: 6, total reward: 1
+
+Start, state 0
+
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 1, DOWN → state 4
+  (Down)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 2, DOWN → state 8
+  (Down)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 3, RIGHT → state 9
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 4, DOWN → state 13
+  (Down)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 5, RIGHT → state 14
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Step 6, RIGHT → state 15
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
