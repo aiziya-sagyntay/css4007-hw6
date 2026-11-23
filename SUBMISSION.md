@@ -6,7 +6,8 @@ Which tools did you use, and for what?
 
 ## Setup and reproduction
 
-Record dependency versions, installation commands and exact run commands.
+- Python: `3.13.18`
+- Gymnasium: `1.4.0`
 
 ## Part A — Paper calculations
 
